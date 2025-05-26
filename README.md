@@ -15,6 +15,3 @@ A modern, responsive landing page built with HTML5 and CSS3 to promote a mobile 
 - ✅ Clean, minimal design
 
 ---
-
-## 📁 Project Structure
-
